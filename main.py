@@ -1,1 +1,6 @@
-print("67"x 100)
+print(1.0)
+print(6.7+8.3)
+print(8.3*8.3)
+print(67==83)
+print("Dio"=="Diego")
+print("Dio">"Jotaro")
