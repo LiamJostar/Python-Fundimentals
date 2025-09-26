@@ -38,3 +38,16 @@ print("Result 4: ", result4)
 
 result5 = 5 + 2 ** 3 * (4 - 1)
 print("Result 5: ", result5)
+#challenges
+#challenge 1: rectangle area
+rectangle = 8 * 5
+print("Area of rectangle: ", rectangle)
+#challange 2: circle area
+circle = 3.14 * (7 **2)
+print("Area of circle: ", circle)
+#challenge 3: shopping total
+book = (3 * 12.99) + (4 * 2.50)
+print("Shopping costs: ", book)
+#challenge 4: even or odd
+the_anything = 6 % 7
+print("the_anthing: ", the_anything)
