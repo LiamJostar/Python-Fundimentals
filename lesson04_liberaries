@@ -1,0 +1,12 @@
+import random
+Good_list = ["Ceaser,Jotaro,Josuke,Giorno,Jonathan,Joseph,Jolene,Weather report,Polneraff,Avdol"]
+Bad_list = ["Dio,Kira,Eisidisi,Kars,Wamuu,Pucci,Diavolo"]
+print(random.choice (Good_list))
+print(random.choice (Bad_list))
+random.shuffle(Good_list)
+random.shuffle(Bad_list)
+print(Good_list)
+print(Bad_list)
+
+
+
